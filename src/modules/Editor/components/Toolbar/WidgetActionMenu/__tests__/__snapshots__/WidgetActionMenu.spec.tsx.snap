@@ -1,0 +1,590 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Toolbar/WidgetActionMenu should render all action buttons 1`] = `
+<div>
+  <div
+    class="css-0"
+  >
+    <div
+      class="css-1k2orlt"
+    >
+      <button
+        aria-label="[BETA] Toggle Flow Mode - OFF"
+        class="chakra-button css-9os3ml"
+        data-testid="flowmode-toggle-button"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+        >
+          cube_transparent.svg
+        </svg>
+      </button>
+      <button
+        aria-controls="popover-content-:rh:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="chakra-button css-1ofqz4h"
+        data-testid="widget-layer-menu-trigger-button"
+        disabled=""
+        id="popover-trigger-:rh:"
+        type="button"
+      >
+        Layer
+      </button>
+      <div
+        class="chakra-popover__popper css-1qq679y"
+        style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+      >
+        <section
+          class="chakra-popover__content css-1go3j4f"
+          data-testid="widget-layer-menu-content"
+          id="popover-content-:rh:"
+          role="dialog"
+          style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.95) translateZ(0);"
+          tabindex="-1"
+        >
+          <div
+            class="chakra-button__group css-1bqlam1"
+            role="group"
+          >
+            <button
+              class="chakra-button css-7mlsyj"
+              type="button"
+            >
+              <div
+                class="css-tdm6l"
+              >
+                <svg>
+                  moveFront.svg
+                </svg>
+                <p
+                  class="chakra-text css-yt20lj"
+                >
+                  Move to Front
+                </p>
+              </div>
+              <div
+                class="css-k008qs"
+              >
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  ctrl
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  shift
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  &gt;
+                </kbd>
+              </div>
+            </button>
+            <button
+              class="chakra-button css-7mlsyj"
+              type="button"
+            >
+              <div
+                class="css-tdm6l"
+              >
+                <svg>
+                  moveForwards.svg
+                </svg>
+                <p
+                  class="chakra-text css-yt20lj"
+                >
+                  Move Forward
+                </p>
+              </div>
+              <div
+                class="css-k008qs"
+              >
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  ctrl
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  &gt;
+                </kbd>
+              </div>
+            </button>
+            <button
+              class="chakra-button css-7mlsyj"
+              type="button"
+            >
+              <div
+                class="css-tdm6l"
+              >
+                <svg>
+                  moveBackwards.svg
+                </svg>
+                <p
+                  class="chakra-text css-yt20lj"
+                >
+                  Move Backwards
+                </p>
+              </div>
+              <div
+                class="css-k008qs"
+              >
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  ctrl
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  &lt;
+                </kbd>
+              </div>
+            </button>
+            <button
+              class="chakra-button css-7mlsyj"
+              type="button"
+            >
+              <div
+                class="css-tdm6l"
+              >
+                <svg>
+                  moveBack.svg
+                </svg>
+                <p
+                  class="chakra-text css-yt20lj"
+                >
+                  Move to Back
+                </p>
+              </div>
+              <div
+                class="css-k008qs"
+              >
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  ctrl
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  shift
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  +
+                </kbd>
+                <kbd
+                  class="chakra-kbd css-2fship"
+                >
+                  &lt;
+                </kbd>
+              </div>
+            </button>
+          </div>
+        </section>
+      </div>
+      <hr
+        aria-orientation="vertical"
+        class="chakra-divider css-16aks9g"
+      />
+      <button
+        class="chakra-button css-1rt59zj"
+        data-testid="group-widget-menu"
+        disabled=""
+        type="button"
+      >
+        Group
+      </button>
+      <button
+        aria-label="Duplicate"
+        class="chakra-button css-108yenj"
+        disabled=""
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+        >
+          copy.svg
+        </svg>
+      </button>
+      <button
+        aria-label="Lock"
+        class="chakra-button css-108yenj"
+        disabled=""
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+        >
+          lock.svg
+        </svg>
+      </button>
+      <button
+        aria-label="Delete widget"
+        class="chakra-button css-108yenj"
+        disabled=""
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+        >
+          trash.svg
+        </svg>
+      </button>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
+
+exports[`components/Toolbar/WidgetActionMenu should render dropdown 1`] = `
+<div>
+  <div
+    class="css-0"
+  >
+    <div
+      class="css-1p3wbw4"
+    >
+      <hr
+        aria-orientation="vertical"
+        class="chakra-divider css-16aks9g"
+      />
+      <button
+        aria-controls="popover-content-:r1:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        aria-label="More Options"
+        class="chakra-button css-1dzjj48"
+        id="popover-trigger-:r1:"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+        >
+          more.svg
+        </svg>
+      </button>
+      <div
+        class="chakra-popover__popper css-1qq679y"
+        style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+      >
+        <section
+          class="chakra-popover__content css-5sqc17"
+          id="popover-content-:r1:"
+          role="dialog"
+          style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.95) translateZ(0);"
+          tabindex="-1"
+        >
+          <div
+            class="css-1k2orlt"
+          >
+            <button
+              aria-label="[BETA] Toggle Flow Mode - OFF"
+              class="chakra-button css-9os3ml"
+              data-testid="flowmode-toggle-button"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                focusable="false"
+              >
+                cube_transparent.svg
+              </svg>
+            </button>
+            <button
+              aria-controls="popover-content-:r5:"
+              aria-expanded="false"
+              aria-haspopup="dialog"
+              class="chakra-button css-1ofqz4h"
+              data-testid="widget-layer-menu-trigger-button"
+              disabled=""
+              id="popover-trigger-:r5:"
+              type="button"
+            >
+              Layer
+            </button>
+            <div
+              class="chakra-popover__popper css-1qq679y"
+              style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+            >
+              <section
+                class="chakra-popover__content css-1go3j4f"
+                data-testid="widget-layer-menu-content"
+                id="popover-content-:r5:"
+                role="dialog"
+                style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.95) translateZ(0);"
+                tabindex="-1"
+              >
+                <div
+                  class="chakra-button__group css-1bqlam1"
+                  role="group"
+                >
+                  <button
+                    class="chakra-button css-7mlsyj"
+                    type="button"
+                  >
+                    <div
+                      class="css-tdm6l"
+                    >
+                      <svg>
+                        moveFront.svg
+                      </svg>
+                      <p
+                        class="chakra-text css-yt20lj"
+                      >
+                        Move to Front
+                      </p>
+                    </div>
+                    <div
+                      class="css-k008qs"
+                    >
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        ctrl
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        shift
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        &gt;
+                      </kbd>
+                    </div>
+                  </button>
+                  <button
+                    class="chakra-button css-7mlsyj"
+                    type="button"
+                  >
+                    <div
+                      class="css-tdm6l"
+                    >
+                      <svg>
+                        moveForwards.svg
+                      </svg>
+                      <p
+                        class="chakra-text css-yt20lj"
+                      >
+                        Move Forward
+                      </p>
+                    </div>
+                    <div
+                      class="css-k008qs"
+                    >
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        ctrl
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        &gt;
+                      </kbd>
+                    </div>
+                  </button>
+                  <button
+                    class="chakra-button css-7mlsyj"
+                    type="button"
+                  >
+                    <div
+                      class="css-tdm6l"
+                    >
+                      <svg>
+                        moveBackwards.svg
+                      </svg>
+                      <p
+                        class="chakra-text css-yt20lj"
+                      >
+                        Move Backwards
+                      </p>
+                    </div>
+                    <div
+                      class="css-k008qs"
+                    >
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        ctrl
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        &lt;
+                      </kbd>
+                    </div>
+                  </button>
+                  <button
+                    class="chakra-button css-7mlsyj"
+                    type="button"
+                  >
+                    <div
+                      class="css-tdm6l"
+                    >
+                      <svg>
+                        moveBack.svg
+                      </svg>
+                      <p
+                        class="chakra-text css-yt20lj"
+                      >
+                        Move to Back
+                      </p>
+                    </div>
+                    <div
+                      class="css-k008qs"
+                    >
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        ctrl
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        shift
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        +
+                      </kbd>
+                      <kbd
+                        class="chakra-kbd css-2fship"
+                      >
+                        &lt;
+                      </kbd>
+                    </div>
+                  </button>
+                </div>
+              </section>
+            </div>
+            <hr
+              aria-orientation="vertical"
+              class="chakra-divider css-16aks9g"
+            />
+            <button
+              class="chakra-button css-1rt59zj"
+              data-testid="group-widget-menu"
+              disabled=""
+              type="button"
+            >
+              Group
+            </button>
+            <button
+              aria-label="Duplicate"
+              class="chakra-button css-108yenj"
+              disabled=""
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                focusable="false"
+              >
+                copy.svg
+              </svg>
+            </button>
+            <button
+              aria-label="Lock"
+              class="chakra-button css-108yenj"
+              disabled=""
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                focusable="false"
+              >
+                lock.svg
+              </svg>
+            </button>
+            <button
+              aria-label="Delete widget"
+              class="chakra-button css-108yenj"
+              disabled=""
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                focusable="false"
+              >
+                trash.svg
+              </svg>
+            </button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

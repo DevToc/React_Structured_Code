@@ -1,0 +1,19 @@
+{
+  "value": {
+    "numericLabel": "Chart Value"
+  },
+  "fontColor": {
+    "label": "Font color"
+  },
+  "fontStyle": {
+    "bold": {
+      "ariaLabel": "Bold Icon"
+    },
+    "italic": {
+      "ariaLabel": "Italic Icon"
+    },
+    "underline": {
+      "ariaLabel": "Underline Icon"
+    }
+  }
+}

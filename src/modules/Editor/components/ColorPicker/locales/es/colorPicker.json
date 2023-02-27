@@ -1,0 +1,9 @@
+{
+  "contrastRatio": {
+    "description": "To achieve the WCAG 2.1 AA accessibility standards, make sure your designs meet the following color contrast thresholds:",
+    "list1": "Normal text: 4.5:1",
+    "list2": "Large text (at least 19px and bold, or at least 24px and regular): 3:1",
+    "list3": "Meaningful graphics: 3:1",
+    "link": "Learn more about color contrast."
+  }
+}

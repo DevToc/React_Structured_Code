@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/BasicShapeWidget should render correctly with border 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="006.widget-1-description"
+    aria-label="Basic shape widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-006.widget-1"
+    id="006.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 100px; height: 100px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-dh3it3"
+    >
+      <svg
+        height="100px"
+        id="triangle-svg-006.widget-1"
+        style="position: absolute;"
+        width="100px"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="transparent"
+          height="90px"
+          id="triangle-fill-006.widget-1"
+          rx="0px"
+          width="90px"
+          x="5"
+          y="5"
+        />
+        <rect
+          fill="none"
+          height="95px"
+          id="triangle-border-006.widget-1"
+          rx="0px"
+          stroke="#0073E6"
+          stroke-width="5px"
+          width="95px"
+          x="2.5"
+          y="2.5"
+        />
+      </svg>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="006.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/BasicShapeWidget should render correctly with fill 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="006.widget-1-description"
+    aria-label="Basic shape widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-006.widget-1"
+    id="006.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 100px; height: 100px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-dh3it3"
+    >
+      <svg
+        height="100px"
+        id="triangle-svg-006.widget-1"
+        style="position: absolute;"
+        width="100px"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="#0073E6"
+          height="100px"
+          id="triangle-fill-006.widget-1"
+          rx="0px"
+          width="100px"
+          x="0"
+          y="0"
+        />
+        <rect
+          fill="none"
+          height="100px"
+          id="triangle-border-006.widget-1"
+          rx="0px"
+          stroke="black"
+          stroke-width="0px"
+          width="100px"
+          x="0"
+          y="0"
+        />
+      </svg>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="006.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/BasicShapeWidget should render rounded rectangle 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="006-widget-1-description"
+    aria-label="Basic shape widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-006-widget-1"
+    id="006-widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 100px; height: 100px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-dh3it3"
+    >
+      <svg
+        height="100px"
+        id="triangle-svg-006-widget-1"
+        style="position: absolute;"
+        width="100px"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="#0073E6"
+          height="100px"
+          id="triangle-fill-006-widget-1"
+          rx="10px"
+          width="100px"
+          x="0"
+          y="0"
+        />
+        <rect
+          fill="#0073E6"
+          height="100px"
+          id="triangle-border-006-widget-1"
+          rx="10px"
+          stroke="black"
+          stroke-width="0px"
+          width="100px"
+          x="0"
+          y="0"
+        />
+      </svg>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="006-widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

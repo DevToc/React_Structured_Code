@@ -1,0 +1,26 @@
+{
+  "altTextModal": {
+    "tips": {
+      "title": "Tips for writing good alt text",
+      "tip1": "Describe the context of the visual in a brief and concise manner.",
+      "tip2": "Keep your description within a sentence or two.",
+      "tip3": "Charts, graphs, maps, and other complex images should have both brief alt text and a detailed description. The detailed description should be placed in the design, next to the complex image.",
+      "tip4": {
+        "part1": "Don't add alt text if the image is purely for aesthetic purposes. (To mark a visual as decorative, simply select the ",
+        "part2": " checkbox.)"
+      }
+    },
+    "heading": "Add Alt Text",
+    "description": "Adding alternative (alt) text can improve accessibility for users of assisstive technologies or those who may have trouble viewing your content",
+    "helpLinkText": "Learn more about using alt text",
+    "textInputPlaceholder": {
+      "active": "How would you describe this visual to someone who is visually impaired?",
+      "disabled": "Decorative content will not expose a description to screen readers."
+    },
+    "markAsDecorative": "Mark as Decorative",
+    "markAsDecorativeTooltip": "Visuals that do not provide important information are considered decorative, and don't need alt text.",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "altTextMenu": "Alt Text"
+}

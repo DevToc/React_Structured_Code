@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ElementsMenu should render 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1psu3b8"
+  >
+    <div
+      class="css-1rxdf5q"
+    >
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-0-btn"
+        >
+          <img
+            alt="Set your goals thumbnail"
+            class="chakra-image css-kr4z"
+            src="set_your_goals.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-1-btn"
+        >
+          <img
+            alt="1.3 Million users"
+            class="chakra-image css-kr4z"
+            src="monthly_active_users.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-2-btn"
+        >
+          <img
+            alt="Design button"
+            class="chakra-image css-kr4z"
+            src="design.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-3-btn"
+        >
+          <img
+            alt="25.5% of people"
+            class="chakra-image css-kr4z"
+            src="referral_traffic.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-4-btn"
+        >
+          <img
+            alt="Analysis"
+            class="chakra-image css-kr4z"
+            src="analysis.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-5-btn"
+        >
+          <img
+            alt="Market conditions"
+            class="chakra-image css-kr4z"
+            src="market_conditions.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-6-btn"
+        >
+          <img
+            alt="Additional units"
+            class="chakra-image css-kr4z"
+            src="additional_units.png"
+          />
+        </button>
+      </div>
+      <div
+        class="css-6gxhc5"
+      >
+        <button
+          class="css-grwglm"
+          data-testid="elementsmenu-7-btn"
+        >
+          <img
+            alt="Quote"
+            class="chakra-image css-kr4z"
+            src="quote.png"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

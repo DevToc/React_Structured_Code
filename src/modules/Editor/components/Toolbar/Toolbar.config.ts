@@ -1,0 +1,2 @@
+export const TOOLBAR_HEIGHT = 48;
+export const WIDGET_ACTION_MENU_WIDTH_THRESHOLD = 320;

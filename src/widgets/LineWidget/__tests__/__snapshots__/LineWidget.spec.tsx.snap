@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/LineWidget should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="005.widget-1-description"
+    aria-label="Line widget"
+    class="widget-container widget-selecto-target  css-1pzw6kx"
+    data-testid="widgetbase-005.widget-1"
+    id="005.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 400px; height: 400px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-1a3qu3o"
+      data-testid="line-widget"
+      style="transform: rotate(0deg);"
+    >
+      <svg
+        data-testid="line-widget-renderer"
+        style="width: 400px; height: 400px; overflow: visible; position: absolute;"
+      >
+        <defs>
+          <marker
+            id="start-arrow-005.widget-1"
+            orient="auto-start-reverse"
+            refX="10px"
+            refY="5px"
+            viewBox="0 0 10 10"
+          >
+            <path
+              d=""
+              fill="#000"
+            />
+          </marker>
+          <marker
+            id="end-arrow-005.widget-1"
+            orient="auto"
+            refX="10px"
+            refY="5px"
+            viewBox="0 0 10 10"
+          >
+            <path
+              d=""
+              fill="#000"
+            />
+          </marker>
+        </defs>
+        <path
+          d="M 0 0 L 400 400"
+          fill="transparent"
+          stroke="#000"
+          stroke-dasharray="none"
+          stroke-width="3px"
+        />
+        <path
+          d="M 0 0 L 400 400"
+          fill="transparent"
+          marker-end="url(#end-arrow-005.widget-1)"
+          marker-start="url(#start-arrow-005.widget-1)"
+          stroke="transparent"
+          stroke-width="3px"
+        />
+        <path
+          d="M 0 0 L 400 400"
+          fill="transparent"
+          id="005.widget-1"
+          pointer-events="stroke"
+          stroke="transparent"
+          stroke-dasharray="none"
+          stroke-width="10px"
+        />
+      </svg>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="005.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

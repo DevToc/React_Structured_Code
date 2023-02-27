@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/ImageWidget should render image correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="007.widget-1-description"
+    aria-label="Image widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-007.widget-1"
+    id="007.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 50px; height: 50px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-7cxduo"
+    >
+      <div
+        data-testid="image-rect"
+        style="top: 0px; left: 0px; right: 0px; bottom: 0px; position: absolute; width: 50px; height: 50px; opacity: 1;"
+      >
+        <img
+          class="css-b6n3l3"
+          draggable="false"
+          src=""
+        />
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="007.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/ImageWidget should render skeleton correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="007.widget-1-description"
+    aria-label="Image widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-007.widget-1"
+    id="007.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 50px; height: 50px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="chakra-skeleton css-jhptx"
+    />
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="007.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

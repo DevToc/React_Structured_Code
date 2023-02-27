@@ -1,0 +1,187 @@
+{
+  "name": "editor2",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "^16"
+  },
+  "dependencies": {
+    "@_ueberdosis/prosemirror-tables": "^1.1.3",
+    "@algolia/transporter": "^4.13",
+    "@chakra-ui/react": "^2.3.5",
+    "@chakra-ui/utils": "^2.0.11",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@handsontable/react": "^12.1.2",
+    "@hello-pangea/dnd": "^16.0.1",
+    "@nivo/pie": "^0.80.0",
+    "@reduxjs/toolkit": "^1.8.6",
+    "@sentry/react": "^7.14.0",
+    "@sentry/tracing": "^7.14.0",
+    "@tiptap/core": "^2.0.0-beta.176",
+    "@tiptap/extension-bullet-list": "^2.0.0-beta.26",
+    "@tiptap/extension-color": "^2.0.0-beta.9",
+    "@tiptap/extension-font-family": "^2.0.0-beta.21",
+    "@tiptap/extension-link": "^2.0.0-beta.36",
+    "@tiptap/extension-list-item": "^2.0.0-beta.20",
+    "@tiptap/extension-ordered-list": "^2.0.0-beta.27",
+    "@tiptap/extension-table": "^2.0.0-beta.54",
+    "@tiptap/extension-table-cell": "^2.0.0-beta.23",
+    "@tiptap/extension-table-header": "^2.0.0-beta.25",
+    "@tiptap/extension-table-row": "^2.0.0-beta.22",
+    "@tiptap/extension-text": "^2.0.0-beta.15",
+    "@tiptap/extension-text-align": "^2.0.0-beta.29",
+    "@tiptap/extension-text-style": "^2.0.0-beta.23",
+    "@tiptap/extension-underline": "^2.0.0-beta.23",
+    "@tiptap/react": "^2.0.0-beta.108",
+    "@tiptap/starter-kit": "^2.0.0-beta.183",
+    "ajv": "^8.12.0",
+    "algoliasearch": "^4.13",
+    "colord": "^2.9",
+    "d3-shape": "^3.1.0",
+    "framer-motion": "^7.5.3",
+    "fscreen": "^1.2.0",
+    "handsontable": "^12.1.2",
+    "highcharts": "^10.2.0",
+    "highcharts-react-official": "^3.1.0",
+    "i18next": "^21.8",
+    "i18next-browser-languagedetector": "^6.1",
+    "i18next-chained-backend": "^3.0",
+    "i18next-http-backend": "^1.4",
+    "i18next-resources-to-backend": "^1.0",
+    "immer": "^9.0",
+    "lodash.clonedeep": "^4.5",
+    "lodash.isequal": "^4.5",
+    "lodash.merge": "^4.6",
+    "lodash.mergewith": "^4.6.2",
+    "lodash.throttle": "^4.1.1",
+    "mixpanel-browser": "^2.45.0",
+    "nanoid": "^3.3",
+    "prosemirror-commands": "1.3.1",
+    "prosemirror-model": "^1.18.1",
+    "prosemirror-state": "^1.3.4",
+    "prosemirror-view": "^1.23.9",
+    "react": "^18.2.0",
+    "react-colorful": "^5.5",
+    "react-div-100vh": "^0.7.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^11.16",
+    "react-inlinesvg": "^3.0.1",
+    "react-moveable": "^0.38.2",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.2",
+    "react-selecto": "^1.20.2",
+    "react-window": "^1.8",
+    "swr": "^1.2",
+    "use-ua-parser-js": "^1.1.3",
+    "valtio": "^1.7.5",
+    "webfontloader": "^1.6"
+  },
+  "devDependencies": {
+    "@chakra-ui/storybook-addon": "^4.0.12",
+    "@jest/types": "^27.5.1",
+    "@mdx-js/react": "^1.6.22",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+    "@storybook/addon-a11y": "^6.5.5",
+    "@storybook/addon-actions": "^6.5.9",
+    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-interactions": "^6.5.9",
+    "@storybook/addon-links": "^6.5.9",
+    "@storybook/builder-webpack5": "^6.5.9",
+    "@storybook/manager-webpack5": "^6.5.9",
+    "@storybook/node-logger": "^6.5.9",
+    "@storybook/preset-create-react-app": "^4.1.2",
+    "@storybook/react": "^6.5.12",
+    "@svgr/webpack": "^6.2.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/d3-shape": "^3.1.0",
+    "@types/fscreen": "^1.0.1",
+    "@types/jest": "^27.4.1",
+    "@types/lodash.clonedeep": "^4.5.6",
+    "@types/lodash.isequal": "^4.5.5",
+    "@types/lodash.merge": "^4.6.6",
+    "@types/lodash.throttle": "^4.1.7",
+    "@types/mixpanel-browser": "^2.38.0",
+    "@types/node": "^17.0.21",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-window": "^1.8.5",
+    "@types/webfontloader": "^1.6.34",
+    "canvas": "^2.10.2",
+    "dependency-cruiser": "^11.7.1",
+    "jest-fetch-mock": "^3.0.3",
+    "lint-staged": "^12.3.5",
+    "msw": "^0.39.2",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.6.2",
+    "react-scripts": "5.0.1",
+    "resize-observer-polyfill": "^1.5.1",
+    "simple-git-hooks": "^2.7.0",
+    "storybook-react-i18next": "^1.0.20",
+    "typescript": "~4.7.x"
+  },
+  "overrides": {
+    "react-refresh": "0.13.0",
+    "@mdx-js/react": {
+      "react": "$react",
+      "react-dom": "$react-dom"
+    }
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "depcruise": "depcruise --config .dependency-cruiser.js src",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "jest": {
+    "testMatch": [
+      "<rootDir>/src/**/__tests__/*.spec.{js,ts,tsx}"
+    ],
+    "transformIgnorePatterns": [
+      "<rootDir>/node_modules/(?!d3)/"
+    ]
+  },
+  "lint-staged": {
+    "*.{js,tsx,ts,css,html}": [
+      "prettier --config ../.prettierrc.js --write"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "storybook": {
+    "url": "https://storybook.chakra-ui.com"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  }
+}

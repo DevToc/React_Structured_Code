@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/IconWidget should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="002.widget-1-description"
+    aria-label="Icon widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-002.widget-1"
+    id="002.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 300px; height: 300px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="002.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/IconWidget should render the icon type correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="002.widget-1-description"
+    aria-label="Icon widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-002.widget-1"
+    id="002.widget-1"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 550px; height: 42px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="002.widget-1-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

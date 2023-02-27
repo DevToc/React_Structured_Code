@@ -1,0 +1,6 @@
+.yarn/
+dist/
+build/
+node_modules/
+src/**/__snapshots__/
+e2e/**/__snapshots__/

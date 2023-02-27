@@ -1,0 +1,211 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/ProgressChartWidget should render bar correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="015-test-widget-id-description"
+    aria-label=""
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-015-test-widget-id"
+    id="015-test-widget-id"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 150px; height: 12px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-jmywsf"
+    >
+      <svg
+        height="12"
+        width="150"
+      >
+        <g>
+          <rect
+            fill="#D9E1FF"
+            height="12"
+            rx="6"
+            ry="6"
+            width="150"
+            x="0"
+            y="0"
+          />
+          <rect
+            fill="#0069D1"
+            height="12"
+            rx="6"
+            ry="6"
+            width="100.5"
+            x="0"
+            y="0"
+          />
+        </g>
+      </svg>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="015-test-widget-id-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/ProgressChartWidget should render donut correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="015-test-widget-id-description"
+    aria-label=""
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-015-test-widget-id"
+    id="015-test-widget-id"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 150px; height: 150px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-jmywsf"
+    >
+      <div
+        style="position: relative;"
+      >
+        <svg
+          height="150"
+          role="img"
+          width="150"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="transparent"
+            height="150"
+            width="150"
+          />
+          <g
+            transform="translate(0,0)"
+          >
+            <g
+              transform="translate(75,75)"
+            >
+              <path
+                d="M4.592425496802574e-15,-75A75,75,0,1,1,-4.592425496802574e-15,75A75,75,0,1,1,4.592425496802574e-15,-75M-1.1986230546654718e-14,-65.25A65.25,65.25,0,1,0,1.1986230546654718e-14,65.25A65.25,65.25,0,1,0,-1.1986230546654718e-14,-65.25Z"
+                fill="#D9E1FF"
+              />
+            </g>
+            <g
+              transform="translate(75,75)"
+            >
+              <path
+                d="M6.217248937900877e-15,-69.95534289816611A4.875,4.875,0,0,1,5.213903743315515,-74.81854855418835A75,75,0,1,1,-63.052176604466474,40.61308933631091A4.875,4.875,0,0,1,-61.302334286422024,33.70124346423684L-61.302334286422024,33.70124346423684A4.875,4.875,0,0,1,-54.85539364588584,35.333387722590466A65.25,65.25,0,1,0,4.536096256684503,-65.09213724214386A4.875,4.875,0,0,1,6.217248937900877e-15,-69.95534289816611Z"
+                fill="#0069D1"
+                opacity="1"
+                stroke="rgb(0, 74, 146)"
+                stroke-width="0"
+              />
+              <path
+                d="M-61.30233428642203,33.701243464236846A4.875,4.875,0,0,1,-68.07581117397636,31.475131977564722A75,75,0,0,1,-5.2139037433155275,-74.81854855418835A4.875,4.875,0,0,1,-1.3322676295501878e-14,-69.95534289816611L-1.3322676295501878e-14,-69.95534289816611A4.875,4.875,0,0,1,-4.5360962566845044,-65.09213724214386A65.25,65.25,0,0,0,-59.22595572135942,27.383364820481308A4.875,4.875,0,0,1,-61.30233428642203,33.701243464236846Z"
+                fill="transparent"
+                opacity="1"
+                stroke="rgba(0, 0, 0, 0)"
+                stroke-width="0"
+              />
+            </g>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="015-test-widget-id-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/ProgressChartWidget should render half-donut correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="015-test-widget-id-description"
+    aria-label=""
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-015-test-widget-id"
+    id="015-test-widget-id"
+    style="display: block; position: absolute; top: 0px; left: 0px; width: 150px; height: 75px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-jmywsf"
+    >
+      <div
+        style="position: relative;"
+      >
+        <svg
+          height="75"
+          role="img"
+          width="150"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="transparent"
+            height="75"
+            width="150"
+          />
+          <g
+            transform="translate(0,0)"
+          >
+            <g
+              transform="translate(75,75)"
+            >
+              <path
+                d="M-69.14658342969666,-1.0658141036401503e-14A5.625,5.625,0,0,1,-74.75306316723963,-6.081081081081093A75,75,0,0,1,74.75306316723963,-6.081081081081079A5.625,5.625,0,0,1,69.14658342969666,0L69.14658342969666,0A5.625,5.625,0,0,1,63.54010369215369,-5.1689189189189175A63.75,63.75,0,0,0,-63.540103692153686,-5.16891891891893A5.625,5.625,0,0,1,-69.14658342969666,-1.0658141036401503e-14Z"
+                fill="#D9E1FF"
+              />
+            </g>
+            <g
+              transform="translate(75,75)"
+            >
+              <path
+                d="M-69.14658342969666,-1.0658141036401503e-14A5.625,5.625,0,0,1,-74.75306316723963,-6.081081081081093A75,75,0,0,1,32.81816305022355,-67.43862523812997A5.625,5.625,0,0,1,35.19847472335396,-59.5173703816744L35.19847472335396,-59.5173703816744A5.625,5.625,0,0,1,27.89543859269001,-57.32283145241048A63.75,63.75,0,0,0,-63.540103692153686,-5.16891891891893A5.625,5.625,0,0,1,-69.14658342969666,-1.0658141036401503e-14Z"
+                fill="#0069D1"
+                opacity="1"
+                stroke="rgb(0, 74, 146)"
+                stroke-width="0"
+              />
+              <path
+                d="M35.19847472335398,-59.51737038167439A5.625,5.625,0,0,1,43.28664716243369,-61.24758099251735A75,75,0,0,1,74.75306316723963,-6.081081081081063A5.625,5.625,0,0,1,69.14658342969666,1.5987211554602254e-14L69.14658342969666,1.5987211554602254e-14A5.625,5.625,0,0,1,63.54010369215369,-5.168918918918904A63.75,63.75,0,0,0,36.793650088068624,-52.060443843639746A5.625,5.625,0,0,1,35.19847472335398,-59.51737038167439Z"
+                fill="transparent"
+                opacity="1"
+                stroke="rgba(0, 0, 0, 0)"
+                stroke-width="0"
+              />
+            </g>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="015-test-widget-id-description"
+      />
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

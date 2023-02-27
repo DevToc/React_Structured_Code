@@ -1,0 +1,24 @@
+{
+  "undoBtn": {
+    "text": "Annuler",
+    "ariaLabel": "Annuler"
+  },
+  "redoBtn": {
+    "text": "Refaire",
+    "ariaLabel": "Refaire"
+  },
+  "lockBtn": {
+    "label": "Verrouiller"
+  },
+  "unlockBtn": {
+    "label": "Déverrouiller"
+  },
+  "group": {
+    "ungroup": "Ungroup",
+    "group": "Group"
+  },
+  "fontFamily": {
+    "heading": "All Fonts",
+    "label": "Select Font Family"
+  }
+}

@@ -1,0 +1,28 @@
+import { HANDLE } from 'constants/bounding-box';
+
+const BOUNDING_BOX_CONFIG = {
+  customHandle: HANDLE.CORNERS,
+};
+const MIN_NR_ICONS = 1;
+const MAX_NR_ICONS = 21;
+const NR_OF_ICONS = [...Array(MAX_NR_ICONS - MIN_NR_ICONS)].map((_, i) => i + MIN_NR_ICONS);
+
+const DEFAULT_SHAPE_COLOR_ONE = '#0082FF';
+const DEFAULT_SHAPE_COLOR_TWO = '#f64d2a';
+const DEFAULT_NR_ICONS = 10;
+const DEFAULT_GRID_ITEM_SIZE_PX = 42;
+const DEFAULT_GRID_GAP_PX = 10;
+const MAX_GAP_PX = 30;
+
+export {
+  BOUNDING_BOX_CONFIG,
+  NR_OF_ICONS,
+  MIN_NR_ICONS,
+  MAX_NR_ICONS,
+  DEFAULT_NR_ICONS,
+  DEFAULT_GRID_ITEM_SIZE_PX,
+  DEFAULT_GRID_GAP_PX,
+  MAX_GAP_PX,
+  DEFAULT_SHAPE_COLOR_ONE,
+  DEFAULT_SHAPE_COLOR_TWO,
+};

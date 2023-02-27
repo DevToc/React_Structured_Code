@@ -1,0 +1,51 @@
+{
+  "badge": "Beta",
+  "navbar": {
+    "share-button": "Share",
+    "accessibility-button": "Accessibility"
+  },
+  "modals": {
+    "set-language": {
+      "title": "Document Language",
+      "body-text": "Setting the document language enables screen readers to read content with appropriate pronunciation.",
+      "learn-more": "Learn more about document language.",
+      "select-placeholder": "Select language"
+    },
+    "download": {
+      "title-download": "Download",
+      "title-select-pages": "Select Pages",
+      "accessibility-prompt-header": "Is your design accessible?",
+      "accessibility-prompt-text": "Ensure that your design is accessible to everyone.",
+      "accessibility-prompt-link": "Learn more",
+      "accessibility-prompt-button": "Check for issues",
+      "choose-format": "Choose a format",
+      "upgrade-premium": "Upgrade to Premium",
+      "option-png": "PNG",
+      "option-png-description": "Ideal for small files. Limited accessibility.",
+      "option-png-hd": "PNG",
+      "option-png-hd-description": "Ideal for large or complex files. Limited accessibility.",
+      "option-interactive-pdf": "PDF",
+      "option-interactive-pdf-description": "Ideal for accessibility, hyperlinks, and printing.",
+      "option-all": "All",
+      "option-custom": "Custom:",
+      "invalid-input-error": "Invalid page range, use e.g. 1-5, 7, 10-11",
+      "download-button": "Download",
+      "download-button-loading": "Downloading...",
+      "upgrade-download-button": "Upgrade to Download",
+      "tooltip-text-pdf": "PDFs can be made accessible for screen readers and other assistive technology."
+    },
+    "share-panel": {
+      "title-share": "Share",
+      "link-share": "Link Sharing",
+      "accessibility-text": "Ideal for accessibility.",
+      "view-only-text": "Anyone with the link can view only.",
+      "copy-link": "Copy Link"
+    }
+  },
+  "alert": {
+    "autosave": {
+      "saving": "Saving...",
+      "done": "Autosaved"
+    }
+  }
+}

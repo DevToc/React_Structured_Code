@@ -1,0 +1,18 @@
+{
+  "chartSwap": {
+    "label": "Chart Type"
+  },
+  "chartValue": {
+    "label": "Chart Value"
+  },
+  "verticalSpacing": {
+    "label": "Vertical Spacing"
+  },
+  "toggleMenu": {
+    "title": "Labels",
+    "valueLabel": "Value label"
+  },
+  "totalItems": {
+    "label": "Total Items"
+  }
+}

@@ -1,0 +1,3 @@
+# chakra-ui utils
+
+This lib contains util packages copied from the chakra-ui repo. Currently, we need to upgrade to react to install them

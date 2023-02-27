@@ -1,0 +1,24 @@
+{
+  "undoBtn": {
+    "text": "Undo",
+    "ariaLabel": "Undo"
+  },
+  "redoBtn": {
+    "text": "Redo",
+    "ariaLabel": "Redo"
+  },
+  "lockBtn": {
+    "label": "Lock"
+  },
+  "unlockBtn": {
+    "label": "Unlock"
+  },
+  "group": {
+    "ungroup": "Ungroup",
+    "group": "Group"
+  },
+  "fontFamily": {
+    "heading": "All Fonts",
+    "label": "Select Font Family"
+  }
+}

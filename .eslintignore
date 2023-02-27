@@ -1,0 +1,7 @@
+node_modules
+dist/
+build/
+config/
+.yarn/
+.eslintrc.js
+e2e/

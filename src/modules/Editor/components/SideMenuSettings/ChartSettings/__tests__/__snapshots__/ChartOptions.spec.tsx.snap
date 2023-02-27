@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChartOptions.tsx should render DataPrefix 1`] = `
+<DocumentFragment>
+  <div
+    class="css-70qvj9"
+  >
+    <p
+      class="chakra-text css-1mtakt3"
+    >
+      Prefix
+    </p>
+    <input
+      aria-label="number format prefix"
+      class="chakra-input css-1fswsip"
+      data-testid="number-format-prefix"
+      placeholder="e.g. $, £, €"
+      value="Test"
+    />
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`ChartOptions.tsx should render DataSuffix 1`] = `
+<DocumentFragment>
+  <div
+    class="css-70qvj9"
+  >
+    <p
+      class="chakra-text css-1mtakt3"
+    >
+      Suffix
+    </p>
+    <input
+      aria-label="number format suffix"
+      class="chakra-input css-1j0he9p"
+      data-testid="number-format-suffix"
+      placeholder="e.g. kg, ft, M, °"
+      value="Test"
+    />
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`ChartOptions.tsx should render NumberFormat 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-accordion css-x7re8g"
+  >
+    <div
+      class="chakra-accordion__item css-1pfn623"
+    >
+      <h2>
+        <button
+          aria-controls="accordion-panel-:r8:"
+          aria-expanded="true"
+          class="chakra-accordion__button css-1oc1f0x"
+          data-index="0"
+          id="accordion-button-:r8:"
+          type="button"
+        >
+          <div
+            class="css-nfa4jm"
+          >
+            Number Format
+          </div>
+          <svg
+            aria-hidden="true"
+            class="chakra-icon chakra-accordion__icon css-j2ph2z"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+      </h2>
+      <div
+        class="chakra-collapse"
+        style="overflow: hidden; display: block; opacity: 0; height: auto;"
+      >
+        <div
+          aria-labelledby="accordion-button-:r8:"
+          class="chakra-accordion__panel css-rv0asf"
+          id="accordion-panel-:r8:"
+          role="region"
+        >
+          <div
+            class="css-70qvj9"
+          >
+            <p
+              class="chakra-text css-1mtakt3"
+            >
+              Prefix
+            </p>
+            <input
+              aria-label="number format prefix"
+              class="chakra-input css-1fswsip"
+              data-testid="number-format-prefix"
+              placeholder="e.g. $, £, €"
+              value="Test"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`ChartOptions.tsx should render NumberFormatSwitch (percentage) 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-form-control css-1wth8of"
+    role="group"
+  >
+    <p
+      class="chakra-text css-1mtakt3"
+      id="data-table-format-label"
+    >
+      Format
+    </p>
+    <div
+      class="chakra-radio-group css-0"
+      role="radiogroup"
+    >
+      <div
+        class="chakra-stack css-mc07to"
+      >
+        <label
+          class="chakra-radio css-1cqh9jq"
+          data-checked=""
+        >
+          <input
+            checked=""
+            class="chakra-radio__input"
+            id="data-format-percentage"
+            name="Format"
+            style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+            type="radio"
+            value="percentage"
+          />
+          <span
+            aria-hidden="true"
+            class="chakra-radio__control css-arfnvs"
+            data-checked=""
+          />
+          <span
+            class="chakra-radio__label css-lest1k"
+            data-checked=""
+          >
+            Percentage
+          </span>
+        </label>
+        <label
+          class="chakra-radio css-1cqh9jq"
+        >
+          <input
+            class="chakra-radio__input"
+            id="data-format-value"
+            name="Format"
+            style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+            type="radio"
+            value="value"
+          />
+          <span
+            aria-hidden="true"
+            class="chakra-radio__control css-arfnvs"
+          />
+          <span
+            class="chakra-radio__label css-lest1k"
+          >
+            Value
+          </span>
+        </label>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`ChartOptions.tsx should render NumberFormatSwitch (value) 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-form-control css-1wth8of"
+    role="group"
+  >
+    <p
+      class="chakra-text css-1mtakt3"
+      id="data-table-format-label"
+    >
+      Format
+    </p>
+    <div
+      class="chakra-radio-group css-0"
+      role="radiogroup"
+    >
+      <div
+        class="chakra-stack css-mc07to"
+      >
+        <label
+          class="chakra-radio css-1cqh9jq"
+          data-checked=""
+        >
+          <input
+            checked=""
+            class="chakra-radio__input"
+            id="data-format-percentage"
+            name="Format"
+            style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+            type="radio"
+            value="percentage"
+          />
+          <span
+            aria-hidden="true"
+            class="chakra-radio__control css-arfnvs"
+            data-checked=""
+          />
+          <span
+            class="chakra-radio__label css-lest1k"
+            data-checked=""
+          >
+            Percentage
+          </span>
+        </label>
+        <label
+          class="chakra-radio css-1cqh9jq"
+        >
+          <input
+            class="chakra-radio__input"
+            id="data-format-value"
+            name="Format"
+            style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+            type="radio"
+            value="value"
+          />
+          <span
+            aria-hidden="true"
+            class="chakra-radio__control css-arfnvs"
+          />
+          <span
+            class="chakra-radio__label css-lest1k"
+          >
+            Value
+          </span>
+        </label>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

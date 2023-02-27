@@ -1,0 +1,24 @@
+{
+  "undoBtn": {
+    "text": "Deshacer",
+    "ariaLabel": "Deshacer"
+  },
+  "redoBtn": {
+    "text": "Rehacer",
+    "ariaLabel": "Rehacer"
+  },
+  "lockBtn": {
+    "label": "Bloquear"
+  },
+  "unlockBtn": {
+    "label": "Desbloquear"
+  },
+  "group": {
+    "ungroup": "Ungroup",
+    "group": "Group"
+  },
+  "fontFamily": {
+    "heading": "All Fonts",
+    "label": "Select Font Family"
+  }
+}

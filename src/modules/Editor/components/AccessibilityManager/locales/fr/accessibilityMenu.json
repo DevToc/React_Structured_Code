@@ -1,0 +1,201 @@
+{
+  "accessibilityMenu": {
+    "tips": {
+      "title": "About reading order",
+      "tip1": "People who use screen readers to access your design will hear content read to them in a specific order.",
+      "tip2": "The reading order of your design should be logical and consistent with the meaning of the content.",
+      "learnMore": "Learn more about reading order."
+    },
+    "documentTitle": {
+      "headerLabel": "Document Title",
+      "desc1": "The title of your design will be used as the document title when you download your file as a PDF.",
+      "desc2": "Document titles help users of assistive devices identify their current location without having to read page content.",
+      "desc3": "You can edit the document title using the Title field at the top of the editor.",
+      "makeSure": "Make sure your document title:",
+      "tip1": "Is meaningful",
+      "tip2": "Reflects the content of the document",
+      "tip3": "Is written in the language of the document",
+      "learnMore": "Learn more about setting the document title.",
+      "resolvedCheck": "The design title is meaningful, reflects the content of the document, and is written in the language of the document."
+    },
+    "documentLanguage": {
+      "headerLabel": "Document Language",
+      "desc1": "Screen readers use the document language to read content with appropriate pronunciation.",
+      "makeSure": "Make sure:",
+      "tip1": "The document language is correct.",
+      "tip2": "The design only contains text in the document language",
+      "learnMore": "Learn more about setting document language for accessibility.",
+      "resolvedCheck": "The document language is correct and the design only contains text in the document language"
+    },
+    "alternativeText": {
+      "headerLabel": "Alternative Text",
+      "desc1": "Alternative (alt) text is a description of non-text content that can be \"read\" by screen readers. Non-text content includes images, icons, logos, shapes, lines, and arrows.",
+      "makeSure": "Make sure:",
+      "tips": [
+        "Informative non-text content has alt text",
+        "Non-text content that is pure decoration or is used only for visual formatting is marked as decorative. It does not require alt text."
+      ],
+      "learnMore": "Learn more about writing good alt text and determining whether content needs alt text.",
+      "manualCheckLabel": "Manual check required for decorative tags",
+      "manualCheckDescription": "Check that graphics used decoratively or for visual formatting are marked as decorative.",
+      "manualCheckCheckboxLabel": "Decorative non-text content is marked as decorative.",
+      "autoCheckIssues": "Missing alt text",
+      "autoCheckResolved": "Document has alternative text for images.",
+      "manualCheckResolved": "Non-text content is marked as decorative."
+    },
+    "imageText": {
+      "headerLabel": "Images of Text",
+      "desc1": "Images that contain text that is meant to be read should be avoided.",
+      "desc2": "Some users rely on specific styling and sizing of text to perceive text. Genuine text can often be modified to meet those needs, while images of text cannot.",
+      "makeSure": "What you need to do:",
+      "tip1": "Check that your design does not contain images of text where the text is essential to the content. If possible, replace these images with genuine text.",
+      "tip2": "If images of text are absolutely necessary, make sure the alt text for the image contains the same text shown in the image.",
+      "learnMore": "Learn more about improving the accessibility of images of text.",
+      "resolvedCheck": "Images of text are avoided or appropriate alt text is used."
+    },
+    "logicalReadingOrder": {
+      "headerLabel": "Logical Reading Order",
+      "desc1": "For sighted users, the logical reading order is the visual order of elements on the screen.",
+      "desc2": "For keyboard and screen reader users, the reading order must be set to reflect the order in which you wish your document to be read. It should be logical and consistent with the meaning of your document.",
+      "button": "Set Reading Order",
+      "learnMore": "Learn more about reading order.",
+      "resolvedCheck": "The document has a logical reading order."
+    },
+    "headings": {
+      "headerLabel": "Headings",
+      "desc1": "Text tags (Title, Heading 1 - Heading 6, Paragraph) are hidden properties that are used to create an outline for your document. This outline helps screen reader users efficiently navigate your content.",
+      "autoCheckSuccess": "Headings are used hierarchically",
+      "autoCheckLabelError": "Headings are not used hierarchically ({{count}}). ",
+      "autoCheckDescription": "Make sure heading levels are used hierarchically.",
+      "autoCheckText": [
+        "The first heading after the title should be an H1.",
+        "Subsections of previous headings should use the next heading level. For example, an H3 should follow an H2. An H4 should not directly follow an H2."
+      ],
+      "makeSure": "Make sure:",
+      "rescanDoc": "Rescan your document after editing tags.",
+      "manualCheckLabel": "Manual check required for heading tags",
+      "bestPractices": "Follow these best practices:",
+      "manualCheckTips": [
+        {
+          "bold": "Headings define document sections.",
+          "body": "Any other text should get a Paragraph tag, even if it's styled to look different from surrounding text. Subtitles should get Paragraph tags."
+        },
+        {
+          "bold": "Headings use heading tags.",
+          "body": "Text that is merely large, bold, or emphasized is not interpreted as a heading unless tags are used."
+        },
+        { "bold": "Headings describe the content of the sections they define." }
+      ],
+      "manualCheckTip4": "tag is used if the document title is included in the design.",
+      "manualCheckTip5": "Headings don't include lists.",
+      "manualCheckCheckboxLabel": "Heading tags follow best practices.",
+      "the": "The",
+      "title": "Title",
+      "learnMore": "Learn more about tagging text.",
+      "resolvedCheck": "The document headings are correct"
+    },
+    "colorContrast": {
+      "headerLabel": "Color Contrast",
+      "desc1": "Low-contrast text can be difficult to read.",
+      "makeSure": " Make sure your design meets the following color contrast thresholds:",
+      "tip1": "Normal text: 4.5:1",
+      "tip2": "Large text (at least 18px and bold, or at least 24px and regular): 3:1",
+      "tip3": "Meaningful graphics: 3:1",
+      "desc2": "You can check color contrast in the color menu for each element.",
+      "learnMore": "Learn more about color contrast.",
+      "rescan": "Rescan your document after editing colors.",
+      "autoCheckResolved": "Text has sufficient color contrast.",
+      "autoCheckIssues": "Insufficient color contrast",
+      "resolvedCheck": "Mark as complete"
+    },
+    "useOfColor": {
+      "headerLabel": "Use of Color",
+      "desc1": "People with visual impairments like color-blindness should be able to understand your design.",
+      "desc2": "By providing the information conveyed with color through other visual means, you can make your content more accessible to people who cannot see color.",
+      "makeSure": "Do not use color as the only visual means of:",
+      "tip1": "Distinguishing a visual element",
+      "tip2": "Conveying information",
+      "tip3": "Indicating an action",
+      "tip4": "Prompting a response",
+      "learnMore": "Learn more about use of color.",
+      "resolvedCheck": "Color is not the only visual means of conveying essential information."
+    },
+    "links": {
+      "headerLabel": "Links",
+      "desc1": "When someone clicks on a link, they should understand where it will take them based on the link text alone.",
+      "desc2": "Avoid generic link text like 'Click Here' or 'Read More'.",
+      "desc3": "If non-text elements, like images or icons, are linked, they should have alt text that explains where they lead.",
+      "desc4": "Links should be recognizable as links, with underlined text or another non-color indicator that differentiates linked text from surrounding text.",
+      "learnMore": "Learn more about creating accessible links.",
+      "resolvedCheck": "Links are clear and recognizable.",
+      "autoCheckResolved": "Document does not contain any links."
+    },
+    "tables": {
+      "headerLabel": "Tables",
+      "desc1": "Screen readers use the row and column headers to read out relevent row or column information as users navigate through the table. ",
+      "desc2": "This makes it easier to follow the content. If your table content has a row or column that functions as a header, tag that row or column as a header.",
+      "rescanDoc": "Rescan your document after editing table.",
+      "manualCheckCheckboxLabel": "Table headers are appropriately tagged.",
+      "learnMore": "Learn more about creating accessible tables.",
+      "autoCheckIssues": "Check table headers",
+      "autoCheckResolved": "Table headers are appropriately tagged.",
+      "resolvedCheck": "The Table headers are tagged.",
+      "noTable": "Document does not contain any tables."
+    },
+    "textSize": {
+      "headerLabel": "Text Size",
+      "desc1": "Larger text sizes may be easier for viewers with vision impairments to perceive. While there are no official accessibility guidelines for text size, we recommend using text sizes of at least 16px.",
+      "resolvedCheck": "Mark as complete",
+      "autoCheckIssues": "Small text sizes",
+      "autoCheckResolved": "Document has sufficient text size."
+    },
+    "rescanConfirmModal": {
+      "heading": "Rescan your document?",
+      "desc": "Rescanning your document will reset all the manual checks. Are you sure you want to continue?",
+      "cancel": "Cancel",
+      "rescan": "Rescan"
+    },
+    "statusBanner": {
+      "issue": {
+        "title_one": "{{count}} issue detected",
+        "title_other": "{{count}} issues detected"
+      },
+      "resolved": {
+        "title": "All issues resolved",
+        "description": "You’re ready to export and share your design!"
+      }
+    },
+    "statusIcon": {
+      "fail": "Fail",
+      "pass": "Pass",
+      "warn": "Needs Review",
+      "reviewed": "Reviewed"
+    },
+    "simulator": {
+      "achromatopsia": {
+        "title": "Achromatopsia",
+        "description": "Complete color blindness"
+      },
+      "deuteranopia": {
+        "title": "Deuteranopia",
+        "description": "Difficulty detecting greens"
+      },
+      "protanopia": {
+        "title": "Protanopia",
+        "description": "Difficulty detecting reds"
+      },
+      "tritanopia": {
+        "title": "Tritanopia",
+        "description": "Difficulty detecting blues and yellows"
+      },
+      "cataracts": {
+        "title": "Cataracts",
+        "description": "Cloudy vision that reduces contrast"
+      },
+      "lowvision": {
+        "title": "Low Vision",
+        "description": "Blurry and decreased vision"
+      }
+    }
+  }
+}

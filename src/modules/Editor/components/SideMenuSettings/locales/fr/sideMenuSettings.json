@@ -1,0 +1,23 @@
+{
+  "chartSettings": {
+    "tabData": "Data",
+    "tabSetup": "Setup",
+    "legendTitle": "Legend",
+    "legendColorLabel": "Legend color",
+    "verticalAxisTitle": "Vertical Axis",
+    "horizontalAxisTitle": "Horizontal Axis",
+    "axisColorLabel": "Axis color",
+    "gridLinesTitle": "Grid Lines",
+    "gridLinesColorLabel": "Grid line color",
+    "chartStyleTitle": "Chart Style",
+    "chartStyleColorLabel": "Chart color",
+    "labelsTitle": "Labels",
+    "numberFormat": "Number Format",
+    "numberFormatFormat": "Format",
+    "numberFormatPercentage": "Percentage",
+    "numberFormatValue": "Value",
+    "dataPrefix": "Prefix",
+    "dataSuffix": "Suffix",
+    "labelsColorLabel": "Label text color"
+  }
+}

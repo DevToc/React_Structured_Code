@@ -1,0 +1,17 @@
+{
+  "dataColor": {
+    "label": "Non-Data Color"
+  },
+  "nonDataColor": {
+    "label": "Data Color"
+  },
+  "cornerRadius": {
+    "label": "Corner Rounding"
+  },
+  "donutSize": {
+    "label": "Donut Hole"
+  },
+  "barHeight": {
+    "label": "Bar Height"
+  }
+}

@@ -1,0 +1,1283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataTable.spec.tsx should render Data Table 1`] = `
+<DocumentFragment>
+  <div
+    class="handsontable htRowHeaders htColumnHeaders"
+    data-originalstyle="height: auto; overflow: hidden; width: auto;"
+    dir=""
+    id="hot-spreadsheet"
+    style="height: auto; overflow: hidden; width: auto;"
+  >
+    <div
+      class="ht_master handsontable"
+      dir="ltr"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; height: auto; width: 0px;"
+      >
+        <div
+          class="wtHider"
+          style="width: 250px; height: 93px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; top: 0px; left: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+                <col
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader"
+                      >
+                        A
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        1
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  />
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        2
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Public Sector
+                  </td>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        3
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Education
+                  </td>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        4
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Technology
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_top handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; width: 0px; height: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; width: 0px; height: 3px;"
+      >
+        <div
+          class="wtHider"
+          style="width: 250px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; left: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+                <col
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader"
+                      >
+                        A
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_bottom handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup />
+              <thead />
+              <tbody />
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_inline_start ht_clone_left handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; height: 0px; width: 3px;"
+      >
+        <div
+          class="wtHider"
+          style="height: 93px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; top: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        1
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        2
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        3
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        4
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_top_inline_start_corner ht_clone_top_left_corner handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_bottom_inline_start_corner ht_clone_bottom_left_corner handsontable"
+      dir="ltr"
+      style="position: absolute; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup />
+              <thead />
+              <tbody />
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`DataTable.spec.tsx should render Data Table if doTableReloadWorkaround is true 1`] = `
+<DocumentFragment>
+  <div
+    class="handsontable htRowHeaders htColumnHeaders"
+    data-originalstyle="height: auto; overflow: hidden; width: auto;"
+    dir=""
+    id="hot-spreadsheet"
+    style="height: auto; overflow: hidden; width: auto;"
+  >
+    <div
+      class="ht_master handsontable"
+      dir="ltr"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; height: auto; width: 0px;"
+      >
+        <div
+          class="wtHider"
+          style="width: 250px; height: 93px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; top: 0px; left: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+                <col
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader"
+                      >
+                        A
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        1
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  />
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        2
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Public Sector
+                  </td>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        3
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Education
+                  </td>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        4
+                      </span>
+                    </div>
+                  </th>
+                  <td
+                    class=""
+                  >
+                    Technology
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_top handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; width: 0px; height: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; width: 0px; height: 3px;"
+      >
+        <div
+          class="wtHider"
+          style="width: 250px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; left: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+                <col
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader"
+                      >
+                        A
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_bottom handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup />
+              <thead />
+              <tbody />
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_inline_start ht_clone_left handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative; height: 0px; width: 3px;"
+      >
+        <div
+          class="wtHider"
+          style="height: 93px;"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative; top: 0px;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        1
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        2
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        3
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="rowHeader"
+                      >
+                        4
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_top_inline_start_corner ht_clone_top_left_corner handsontable"
+      dir="ltr"
+      style="position: absolute; top: 0px; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup>
+                <col
+                  class="rowHeader"
+                  style="width: 50px;"
+                />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th
+                    class=""
+                  >
+                    <div
+                      class="relative"
+                    >
+                      <span
+                        class="colHeader cornerHeader"
+                      >
+                         
+                      </span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+            <div
+              class="htBorders"
+            >
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current"
+                  style="background-color: rgb(75, 137, 255); height: 2px; width: 2px; display: none;"
+                />
+                <div
+                  class="wtBorder current corner"
+                  style="background-color: rgb(75, 137, 255); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+              <div
+                style="position: absolute; top: 0px; left: 0px;"
+              >
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill"
+                  style="background-color: rgb(255, 0, 0); height: 1px; width: 1px; display: none;"
+                />
+                <div
+                  class="wtBorder fill corner"
+                  style="background-color: rgb(255, 0, 0); height: 6px; width: 6px; border: 1px solid #fff; display: none;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ht_clone_bottom_inline_start_corner ht_clone_bottom_left_corner handsontable"
+      dir="ltr"
+      style="position: absolute; overflow: visible; left: 0px; height: 0px; width: 0px;"
+    >
+      <div
+        class="wtHolder"
+        style="position: relative;"
+      >
+        <div
+          class="wtHider"
+        >
+          <div
+            class="wtSpreader"
+            style="position: relative;"
+          >
+            <table
+              class="htCore"
+            >
+              <colgroup />
+              <thead />
+              <tbody />
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

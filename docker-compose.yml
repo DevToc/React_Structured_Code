@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  editor2:
+    build:
+      context: .
+      dockerfile: Dockerfile.development
+    restart: always
+    environment:
+      - NODE_ENV=${NODE_ENV}
+      - NODE_PORT=${NODE_PORT}
+      - PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 # Skip downloading during npm install
+      - PLAYWRIGHT_BROWSERS_PATH=/usr/lib/playwright
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - ${NODE_PORT}:${NODE_PORT}
+    tty: true
+    env_file: .env
+
+networks:
+  default:
+    external: true
+    name: venngage-local

@@ -1,0 +1,1844 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccessibilityManager/AccessibilityChecker/ResultContainer should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-accordion css-0"
+  >
+    <div
+      class="chakra-accordion css-1cw89zx"
+    >
+      <div
+        class="css-jirefw"
+      >
+        <div
+          class="chakra-accordion__item css-6y6gt4"
+        >
+          <div
+            class="css-6yx63v"
+          >
+            <div
+              class="css-1o2tdnt"
+            >
+              <div
+                class="css-1p3wbw4"
+              >
+                <svg>
+                  a11ymenu_alert.svg
+                </svg>
+                <p
+                  class="chakra-text css-gix7hh"
+                >
+                  11 issues detected
+                </p>
+              </div>
+              <button
+                aria-label="Check accessibility"
+                class="chakra-button css-8nbtgf"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  focusable="false"
+                >
+                  a11ymenu_refresh.svg
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-0"
+        >
+          <button
+            aria-label="expand/collapse to display checker content"
+            class="css-m55rk2"
+          >
+            <div
+              class="css-5c0thg"
+            >
+              <span
+                class="chakra-text css-4yaaa1"
+              >
+                Fix auto-detected issues
+              </span>
+              <svg
+                aria-hidden="true"
+                class="chakra-icon css-17rlmh5"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </button>
+          <div
+            class="chakra-collapse"
+            style="overflow: hidden; display: block; opacity: 1; height: auto;"
+          >
+            <div
+              class="css-jirefw"
+            >
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r6:"
+                    aria-expanded="true"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="0"
+                    id="accordion-button-:r6:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Color Contrast
+                    </p>
+                    <div
+                      aria-label="check document color contrast button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-128lyz7"
+                      >
+                        <p
+                          class="chakra-text css-9437ev"
+                        >
+                          Fail
+                        </p>
+                        <svg
+                          fill="red.700"
+                          height="14px"
+                          width="14px"
+                        >
+                          status_fail.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: block; opacity: 0; height: auto;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r6:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r6:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Low-contrast text can be difficult to read.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                             Make sure your design meets the following color contrast thresholds:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Normal text: 4.5:1
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Large text (at least 18px and bold, or at least 24px and regular): 3:1
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Meaningful graphics: 3:1
+                              </p>
+                            </li>
+                          </ul>
+                          <div
+                            class="css-0"
+                          >
+                            <p
+                              class="chakra-text css-1eq5f3h"
+                            >
+                              You can check color contrast in the color menu for each element.
+                            </p>
+                          </div>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6551090-use-color-contrast-to-create-accessible-design"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about color contrast.
+                            </a>
+                          </div>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-nbfjfe"
+                        />
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1gxtcp8"
+                          >
+                            <svg
+                              fill="var(--vg-colors-green-500)"
+                              height="16px"
+                              width="16px"
+                            >
+                              a11ymenu_status_ok.svg
+                            </svg>
+                            <p
+                              class="chakra-text css-j8yvij"
+                            >
+                              Text has sufficient color contrast.
+                            </p>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-6j127q"
+                          >
+                            <p
+                              class="chakra-text css-3l7egz"
+                            >
+                              Rescan your document after editing colors.
+                            </p>
+                            <button
+                              aria-label="refresh the color contrast checker"
+                              class="chakra-button css-10v6qh3"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                color="var(--vg-colors-font-500)"
+                                focusable="false"
+                                height="24px"
+                              >
+                                a11ymenu_refresh.svg
+                              </svg>
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r9:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="1"
+                    id="accordion-button-:r9:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Text Size
+                    </p>
+                    <div
+                      aria-label="check document text size button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-cdt51g"
+                      >
+                        <p
+                          class="chakra-text css-1vi081o"
+                        >
+                          Pass
+                        </p>
+                        <svg
+                          fill="action-green.700"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_ok.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r9:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r9:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <p
+                          class="chakra-text css-1eq5f3h"
+                        >
+                          Larger text sizes may be easier for viewers with vision impairments to perceive. While there are no official accessibility guidelines for text size, we recommend using text sizes of at least 16px.
+                        </p>
+                        <div
+                          class="css-1gxtcp8"
+                        >
+                          <svg
+                            fill="var(--vg-colors-green-500)"
+                            height="16px"
+                            width="16px"
+                          >
+                            a11ymenu_status_ok.svg
+                          </svg>
+                          <p
+                            class="chakra-text css-j8yvij"
+                          >
+                            Document has sufficient text size.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:rc:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="2"
+                    id="accordion-button-:rc:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Links
+                    </p>
+                    <div
+                      aria-label="check document links button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:rc:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:rc:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            When someone clicks on a link, they should understand where it will take them based on the link text alone.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Avoid generic link text like 'Click Here' or 'Read More'.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            If non-text elements, like images or icons, are linked, they should have alt text that explains where they lead.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Links should be recognizable as links, with underlined text or another non-color indicator that differentiates linked text from surrounding text.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6597737-style-links-to-make-them-more-accessible"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about creating accessible links.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        />
+                        <div
+                          class="css-1gxtcp8"
+                        >
+                          <svg
+                            fill="var(--vg-colors-green-500)"
+                            height="16px"
+                            width="16px"
+                          >
+                            a11ymenu_status_ok.svg
+                          </svg>
+                          <p
+                            class="chakra-text css-j8yvij"
+                          >
+                            Document does not contain any links.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:rf:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="3"
+                    id="accordion-button-:rf:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Tables
+                    </p>
+                    <div
+                      aria-label="check document tables button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-cdt51g"
+                      >
+                        <p
+                          class="chakra-text css-1vi081o"
+                        >
+                          Pass
+                        </p>
+                        <svg
+                          fill="action-green.700"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_ok.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:rf:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:rf:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Screen readers use the row and column headers to read out relevent row or column information as users navigate through the table. 
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            This makes it easier to follow the content. If your table content has a row or column that functions as a header, tag that row or column as a header.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6540275-create-an-accessible-table-in-your-design"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about creating accessible tables.
+                            </a>
+                          </div>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-nbfjfe"
+                        />
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1gxtcp8"
+                          >
+                            <svg
+                              fill="var(--vg-colors-green-500)"
+                              height="16"
+                              width="16"
+                            >
+                              a11ymenu_status_ok.svg
+                            </svg>
+                            <p
+                              class="chakra-text css-j8yvij"
+                            >
+                              Document does not contain any tables.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-0"
+        >
+          <button
+            aria-label="expand/collapse to display checker content"
+            class="css-m55rk2"
+          >
+            <div
+              class="css-5c0thg"
+            >
+              <span
+                class="chakra-text css-4yaaa1"
+              >
+                Perform manual reviews
+              </span>
+              <svg
+                aria-hidden="true"
+                class="chakra-icon css-17rlmh5"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </button>
+          <div
+            class="chakra-collapse"
+            style="overflow: hidden; display: block; opacity: 1; height: auto;"
+          >
+            <div
+              class="css-jirefw"
+            >
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:rm:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="4"
+                    data-testid="alternativeText-header"
+                    id="accordion-button-:rm:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Alternative Text
+                    </p>
+                    <div
+                      aria-label="check alternative text button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:rm:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:rm:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Alternative (alt) text is a description of non-text content that can be "read" by screen readers. Non-text content includes images, icons, logos, shapes, lines, and arrows.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Make sure:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Informative non-text content has alt text
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Non-text content that is pure decoration or is used only for visual formatting is marked as decorative. It does not require alt text.
+                              </p>
+                            </li>
+                          </ul>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6551180-write-helpful-alternative-alt-text-for-non-text-content-in-your-design"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about writing good alt text and determining whether content needs alt text.
+                            </a>
+                          </div>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-nbfjfe"
+                        />
+                        <div
+                          class="css-1pl5hz9"
+                        >
+                          <svg
+                            fill="var(--vg-colors-green-500)"
+                            height="16px"
+                            width="16px"
+                          >
+                            a11ymenu_status_ok.svg
+                          </svg>
+                          <p
+                            class="chakra-text css-j8yvij"
+                          >
+                            Document has alternative text for images.
+                          </p>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-nbfjfe"
+                        />
+                        <div
+                          class="css-r0g1fa"
+                        >
+                          <div
+                            class="css-1lekzkb"
+                          >
+                            <div
+                              class="css-1p3wbw4"
+                            >
+                              <svg>
+                                a11ymenu_manual_check.svg
+                              </svg>
+                              <p
+                                class="chakra-text css-ehpcsw"
+                              >
+                                Manual check required for decorative tags
+                              </p>
+                            </div>
+                            <button
+                              aria-label="expand/collapse manual check panel"
+                              class="chakra-button css-13hg38b"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                focusable="false"
+                              >
+                                chevron_up.svg
+                              </svg>
+                            </button>
+                          </div>
+                          <div
+                            class="chakra-collapse"
+                            style="overflow: hidden; display: block; opacity: 1; height: auto;"
+                          >
+                            <p
+                              class="chakra-text css-vx0cqa"
+                            >
+                              Check that graphics used decoratively or for visual formatting are marked as decorative.
+                            </p>
+                            <div
+                              class="css-1oxe7ct"
+                            >
+                              <label
+                                class="chakra-checkbox css-bzh1e2"
+                              >
+                                <input
+                                  class="chakra-checkbox__input"
+                                  style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <span
+                                  aria-hidden="true"
+                                  class="chakra-checkbox__control css-1avvzk3"
+                                />
+                                <span
+                                  class="chakra-checkbox__label css-kpl0kw"
+                                >
+                                  <p
+                                    class="chakra-text css-iqerfj"
+                                  >
+                                    Decorative non-text content is marked as decorative.
+                                  </p>
+                                </span>
+                              </label>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:rr:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="5"
+                    id="accordion-button-:rr:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Logical Reading Order
+                    </p>
+                    <div
+                      aria-label="check document logical order button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:rr:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:rr:"
+                      role="region"
+                    >
+                      <div
+                        class="css-1tr2kye"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            For sighted users, the logical reading order is the visual order of elements on the screen.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            For keyboard and screen reader users, the reading order must be set to reflect the order in which you wish your document to be read. It should be logical and consistent with the meaning of your document.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6559142-use-reading-order-for-accessible-documents"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about reading order.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        >
+                          <button
+                            class="chakra-button css-1tjezq7"
+                            type="button"
+                          >
+                            Set Reading Order
+                          </button>
+                        </div>
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1oxe7ct"
+                          >
+                            <label
+                              class="chakra-checkbox css-bzh1e2"
+                            >
+                              <input
+                                class="chakra-checkbox__input"
+                                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                type="checkbox"
+                                value=""
+                              />
+                              <span
+                                aria-hidden="true"
+                                class="chakra-checkbox__control css-1avvzk3"
+                              />
+                              <span
+                                class="chakra-checkbox__label css-kpl0kw"
+                              >
+                                <p
+                                  class="chakra-text css-iqerfj"
+                                >
+                                  The document has a logical reading order.
+                                </p>
+                              </span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:rv:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="6"
+                    data-testid="heading-checker"
+                    id="accordion-button-:rv:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Headings
+                    </p>
+                    <div
+                      aria-label="check document headings button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:rv:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:rv:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Text tags (Title, Heading 1 - Heading 6, Paragraph) are hidden properties that are used to create an outline for your document. This outline helps screen reader users efficiently navigate your content.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6571399-create-and-tag-headings-and-titles-for-accessibility"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about tagging text.
+                            </a>
+                          </div>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-28avnn"
+                        />
+                        <div
+                          class="css-1pl5hz9"
+                        >
+                          <svg
+                            fill="var(--vg-colors-green-500)"
+                            height="16px"
+                            width="16px"
+                          >
+                            a11ymenu_status_ok.svg
+                          </svg>
+                          <p
+                            class="chakra-text css-j8yvij"
+                          >
+                            Headings are used hierarchically
+                          </p>
+                        </div>
+                        <hr
+                          aria-orientation="horizontal"
+                          class="chakra-divider css-28avnn"
+                        />
+                        <div
+                          class="css-r0g1fa"
+                        >
+                          <div
+                            class="css-1lekzkb"
+                          >
+                            <div
+                              class="css-1p3wbw4"
+                            >
+                              <svg>
+                                a11ymenu_manual_check.svg
+                              </svg>
+                              <p
+                                class="chakra-text css-ehpcsw"
+                              >
+                                Manual check required for heading tags
+                              </p>
+                            </div>
+                            <button
+                              aria-label="expand/collapse manual check panel"
+                              class="chakra-button css-13hg38b"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                focusable="false"
+                              >
+                                chevron_up.svg
+                              </svg>
+                            </button>
+                          </div>
+                          <div
+                            class="chakra-collapse"
+                            style="overflow: hidden; display: block; opacity: 1; height: auto;"
+                          >
+                            <p
+                              class="chakra-text css-msg8w3"
+                            >
+                              Follow these best practices:
+                            </p>
+                            <ul
+                              class="css-o1pobn"
+                              role="list"
+                            >
+                              <li
+                                class="css-0"
+                              >
+                                <p
+                                  class="chakra-text css-1eq5f3h"
+                                >
+                                  <strong>
+                                    Headings define document sections.
+                                  </strong>
+                                   Any other text should get a Paragraph tag, even if it's styled to look different from surrounding text. Subtitles should get Paragraph tags.
+                                </p>
+                              </li>
+                              <li
+                                class="css-0"
+                              >
+                                <p
+                                  class="chakra-text css-1eq5f3h"
+                                >
+                                  <strong>
+                                    Headings use heading tags.
+                                  </strong>
+                                   Text that is merely large, bold, or emphasized is not interpreted as a heading unless tags are used.
+                                </p>
+                              </li>
+                              <li
+                                class="css-0"
+                              >
+                                <p
+                                  class="chakra-text css-1eq5f3h"
+                                >
+                                  <strong>
+                                    Headings describe the content of the sections they define.
+                                  </strong>
+                                   
+                                </p>
+                              </li>
+                              <li
+                                class="css-0"
+                              >
+                                <p
+                                  class="chakra-text css-1eq5f3h"
+                                >
+                                  The 
+                                  <strong>
+                                    Title
+                                  </strong>
+                                   tag is used if the document title is included in the design.
+                                </p>
+                              </li>
+                              <li
+                                class="css-0"
+                              >
+                                <p
+                                  class="chakra-text css-1eq5f3h"
+                                >
+                                  <strong>
+                                    Headings don't include lists.
+                                  </strong>
+                                </p>
+                              </li>
+                            </ul>
+                            <div
+                              class="css-1oxe7ct"
+                            >
+                              <label
+                                class="chakra-checkbox css-bzh1e2"
+                                data-testid="toggle-heading-check"
+                              >
+                                <input
+                                  class="chakra-checkbox__input"
+                                  style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <span
+                                  aria-hidden="true"
+                                  class="chakra-checkbox__control css-1avvzk3"
+                                />
+                                <span
+                                  class="chakra-checkbox__label css-kpl0kw"
+                                >
+                                  <p
+                                    class="chakra-text css-iqerfj"
+                                  >
+                                    Heading tags follow best practices.
+                                  </p>
+                                </span>
+                              </label>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r14:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="7"
+                    id="accordion-button-:r14:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Use of Color
+                    </p>
+                    <div
+                      aria-label="check document use of color button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r14:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r14:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            People with visual impairments like color-blindness should be able to understand your design.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Do not use color as the only visual means of:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Distinguishing a visual element
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Conveying information
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Indicating an action
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Prompting a response
+                              </p>
+                            </li>
+                          </ul>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            By providing the information conveyed with color through other visual means, you can make your content more accessible to people who cannot see color.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6590611-convey-meaning-without-relying-on-color"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about use of color.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1oxe7ct"
+                          >
+                            <label
+                              class="chakra-checkbox css-bzh1e2"
+                            >
+                              <input
+                                class="chakra-checkbox__input"
+                                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                type="checkbox"
+                                value=""
+                              />
+                              <span
+                                aria-hidden="true"
+                                class="chakra-checkbox__control css-1avvzk3"
+                              />
+                              <span
+                                class="chakra-checkbox__label css-kpl0kw"
+                              >
+                                <p
+                                  class="chakra-text css-iqerfj"
+                                >
+                                  Color is not the only visual means of conveying essential information.
+                                </p>
+                              </span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r17:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="8"
+                    id="accordion-button-:r17:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Images of Text
+                    </p>
+                    <div
+                      aria-label="check document image text button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r17:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r17:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Images that contain text that is meant to be read should be avoided.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Some users rely on specific styling and sizing of text to perceive text. Genuine text can often be modified to meet those needs, while images of text cannot.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            What you need to do:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Check that your design does not contain images of text where the text is essential to the content. If possible, replace these images with genuine text.
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                If images of text are absolutely necessary, make sure the alt text for the image contains the same text shown in the image.
+                              </p>
+                            </li>
+                          </ul>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6571418-use-text-instead-of-images-of-text"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about improving the accessibility of images of text.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        />
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1oxe7ct"
+                          >
+                            <label
+                              class="chakra-checkbox css-bzh1e2"
+                            >
+                              <input
+                                class="chakra-checkbox__input"
+                                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                type="checkbox"
+                                value=""
+                              />
+                              <span
+                                aria-hidden="true"
+                                class="chakra-checkbox__control css-1avvzk3"
+                              />
+                              <span
+                                class="chakra-checkbox__label css-kpl0kw"
+                              >
+                                <p
+                                  class="chakra-text css-iqerfj"
+                                >
+                                  Images of text are avoided or appropriate alt text is used.
+                                </p>
+                              </span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-0"
+        >
+          <button
+            aria-label="expand/collapse to display checker content"
+            class="css-m55rk2"
+          >
+            <div
+              class="css-5c0thg"
+            >
+              <span
+                class="chakra-text css-4yaaa1"
+              >
+                Confirm document settings
+              </span>
+              <svg
+                aria-hidden="true"
+                class="chakra-icon css-17rlmh5"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </button>
+          <div
+            class="chakra-collapse"
+            style="overflow: hidden; display: block; opacity: 1; height: auto;"
+          >
+            <div
+              class="css-jirefw"
+            >
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r1d:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="9"
+                    id="accordion-button-:r1d:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Document Title
+                    </p>
+                    <div
+                      aria-label="check document title button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r1d:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r1d:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            The title of your design will be used as the document title when you download your file as a PDF.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Document titles help users of assistive devices identify their current location without having to read page content.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Make sure your document title:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Is meaningful
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Reflects the content of the document
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                Is written in the language of the document
+                              </p>
+                            </li>
+                          </ul>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            You can edit the document title using the Title field at the top of the editor.
+                          </p>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6571068-title-your-design-with-accessibility-in-mind"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about setting the document title.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-0"
+                        />
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1oxe7ct"
+                          >
+                            <label
+                              class="chakra-checkbox css-bzh1e2"
+                            >
+                              <input
+                                class="chakra-checkbox__input"
+                                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                type="checkbox"
+                                value=""
+                              />
+                              <span
+                                aria-hidden="true"
+                                class="chakra-checkbox__control css-1avvzk3"
+                              />
+                              <span
+                                class="chakra-checkbox__label css-kpl0kw"
+                              >
+                                <p
+                                  class="chakra-text css-iqerfj"
+                                >
+                                  The design title is meaningful, reflects the content of the document, and is written in the language of the document.
+                                </p>
+                              </span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="chakra-accordion__item css-1ece6lr"
+              >
+                <div
+                  class="css-6yx63v"
+                >
+                  <button
+                    aria-controls="accordion-panel-:r1h:"
+                    aria-expanded="false"
+                    class="chakra-accordion__button css-fhnl1a"
+                    data-index="10"
+                    id="accordion-button-:r1h:"
+                    type="button"
+                  >
+                    <p
+                      class="chakra-text css-gix7hh"
+                    >
+                      Document Language
+                    </p>
+                    <div
+                      aria-label="check document language button"
+                      class="css-0"
+                    >
+                      <div
+                        class="css-goi56q"
+                      >
+                        <p
+                          class="chakra-text css-11ekj0v"
+                        >
+                          Needs Review
+                        </p>
+                        <svg
+                          fill="font.500"
+                          height="14px"
+                          width="14px"
+                        >
+                          a11ymenu_status_need_review.svg
+                        </svg>
+                      </div>
+                    </div>
+                  </button>
+                  <div
+                    class="chakra-collapse"
+                    style="overflow: hidden; display: none; opacity: 0; height: 0px;"
+                  >
+                    <div
+                      aria-labelledby="accordion-button-:r1h:"
+                      class="chakra-accordion__panel css-mnde8x"
+                      id="accordion-panel-:r1h:"
+                      role="region"
+                    >
+                      <div
+                        class="css-hqble9"
+                      >
+                        <div
+                          class="css-hqble9"
+                        >
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Screen readers use the document language to read content with appropriate pronunciation.
+                          </p>
+                          <p
+                            class="chakra-text css-1eq5f3h"
+                          >
+                            Make sure:
+                          </p>
+                          <ul
+                            class="css-1ck6ltg"
+                            role="list"
+                          >
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                The document language is correct.
+                              </p>
+                            </li>
+                            <li
+                              class="css-0"
+                            >
+                              <p
+                                class="chakra-text css-1eq5f3h"
+                              >
+                                The design only contains text in the document language
+                              </p>
+                            </li>
+                          </ul>
+                          <div
+                            class="css-yw3twe"
+                          >
+                            <a
+                              class="chakra-link css-1rr14ud"
+                              href="https://help.venngage.com/en/articles/6594644-identify-the-document-language"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              Learn more about setting document language for accessibility.
+                            </a>
+                          </div>
+                        </div>
+                        <div
+                          class="css-19385xb"
+                        >
+                          <p
+                            class="chakra-text css-1i8186f"
+                          >
+                            Document Language: English
+                          </p>
+                          <button
+                            class="chakra-button css-1l0kg85"
+                            type="button"
+                          >
+                            Edit
+                          </button>
+                        </div>
+                        <div
+                          class="css-0"
+                        >
+                          <div
+                            class="css-1oxe7ct"
+                          >
+                            <label
+                              class="chakra-checkbox css-bzh1e2"
+                            >
+                              <input
+                                class="chakra-checkbox__input"
+                                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                                type="checkbox"
+                                value=""
+                              />
+                              <span
+                                aria-hidden="true"
+                                class="chakra-checkbox__control css-1avvzk3"
+                              />
+                              <span
+                                class="chakra-checkbox__label css-kpl0kw"
+                              >
+                                <p
+                                  class="chakra-text css-iqerfj"
+                                >
+                                  The document language is correct and the design only contains text in the document language
+                                </p>
+                              </span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

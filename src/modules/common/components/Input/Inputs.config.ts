@@ -1,0 +1,3 @@
+const SAFARI_FOCUS_TIMEOUT = 10;
+
+export { SAFARI_FOCUS_TIMEOUT };

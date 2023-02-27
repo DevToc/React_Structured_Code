@@ -1,0 +1,146 @@
+/* Prose Mirror View default css prosemirror-view/style/prosemirror.css */
+.ProseMirror {
+  position: relative;
+
+  /* Ensure font kerning off for all browsers */
+  font-kerning: none;
+  -webkit-font-kerning: none;
+
+  -webkit-font-variant-ligatures: none;
+  font-variant-ligatures: none;
+  -webkit-font-feature-settings: 'kern' 0, 'liga' 0;
+  font-feature-settings: 'kern' 0, 'liga' 0;
+  -webkit-font-smoothing: antialiased;
+
+  /* Emphasizes precision over rendering speed and legibility */
+  text-rendering: geometricPrecision;
+
+  /* Set default font family. Important for consistent line height render */
+  font-family: Inter;
+  font-weight: 400;
+}
+
+.ProseMirror pre {
+  white-space: pre-wrap;
+}
+
+.ProseMirror-hideselection *::selection {
+  background: transparent;
+}
+.ProseMirror-hideselection *::-moz-selection {
+  background: transparent;
+}
+.ProseMirror-hideselection {
+  caret-color: transparent;
+}
+
+.ProseMirror-selectednode {
+  outline: 2px solid #8cf;
+}
+
+/* Make sure li selections wrap around markers */
+
+li.ProseMirror-selectednode {
+  outline: none;
+}
+
+li.ProseMirror-selectednode:after {
+  content: '';
+  position: absolute;
+  left: -32px;
+  right: -2px;
+  top: -2px;
+  bottom: -2px;
+  border: 2px solid #8cf;
+  pointer-events: none;
+}
+
+/* Protect against generic img rules */
+
+img.ProseMirror-separator {
+  display: inline !important;
+  border: none !important;
+  margin: 0 !important;
+}
+
+/* Custom ProseMirror override css */
+.ProseMirror:focus {
+  height: 100%;
+  outline: none;
+}
+
+/* Basic editor styles */
+.ProseMirror ul,
+.ProseMirror ol {
+  padding: 0 1rem;
+  line-height: 100%;
+}
+
+.ProseMirror a {
+  text-decoration: underline;
+  pointer-events: none;
+}
+
+.ProseMirror table {
+  border-collapse: collapse;
+  margin: 0;
+  overflow: hidden;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.ProseMirror table td,
+.ProseMirror table th {
+  box-sizing: border-box;
+  min-width: 1em;
+  padding: 5px 10px;
+  position: relative;
+  vertical-align: top;
+}
+
+.ProseMirror table td > *,
+.ProseMirror table th > * {
+  margin-bottom: 0;
+}
+
+.ProseMirror table th {
+  font-weight: bold;
+  text-align: left;
+}
+
+.ProseMirror table .selectedCell:after {
+  background: none;
+  content: '';
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  pointer-events: none;
+  position: absolute;
+  z-index: 2;
+}
+
+.ProseMirror table .column-resize-handle {
+  background-color: #0073e6;
+  bottom: -2px;
+  position: absolute;
+  right: -2px;
+  pointer-events: none;
+  top: 0;
+  width: 4px;
+  z-index: 1;
+}
+
+.ProseMirror table p {
+  margin: 0;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  width: fit-content;
+}
+
+.resize-cursor {
+  cursor: ew-resize;
+  cursor: col-resize;
+}

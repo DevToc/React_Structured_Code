@@ -1,0 +1,474 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`widgets/TextWidget should render element tags correctly 1`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="paragraph text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 164px; height: 19.5px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <p
+            style="line-height: 1.2"
+          >
+            <span
+              style="font-family: Inter; font-size: 16px; color: #2B2B35"
+            >
+              Click to edit text
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 2`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="paragraph text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 300px; height: 34px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <p
+            style="line-height: 1.2"
+          >
+            <strong>
+              <span
+                style="font-family: Inter; font-size: 28px; color: #717178"
+              >
+                Click to edit text
+              </span>
+            </strong>
+          </p>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 3`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="title text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 433px; height: 48px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <p
+            data-title="1"
+            style="line-height: 1.2"
+          >
+            <strong>
+              <span
+                style="font-family: Inter; font-size: 40px; color: #2B2B35"
+              >
+                Click to edit text
+              </span>
+            </strong>
+          </p>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 4`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 1 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 380px; height: 43.5px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h1
+            style="line-height: 1.2"
+          >
+            <strong>
+              <span
+                style="font-family: Inter; font-size: 36px; color: #2B2B35"
+              >
+                Click to edit text
+              </span>
+            </strong>
+          </h1>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 5`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 2 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 315px; height: 36px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h2
+            style="line-height: 1.2"
+          >
+            <strong>
+              <span
+                style="font-family: Inter; font-size: 30px; color: #2B2B35"
+              >
+                Click to edit text
+              </span>
+            </strong>
+          </h2>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 6`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 3 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 250px; height: 29.5px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h3
+            style="line-height: 1.2"
+          >
+            <strong>
+              <span
+                style="font-family: Inter; font-size: 24px; color: #2B2B35"
+              >
+                Click to edit text
+              </span>
+            </strong>
+          </h3>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 7`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 4 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 215px; height: 24.5px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h4
+            style="line-height: 1.2"
+          >
+            <strong>
+              <em>
+                <span
+                  style="font-family: Inter; font-size: 20px; color: #717178"
+                >
+                  Click to edit text
+                </span>
+              </em>
+            </strong>
+          </h4>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 8`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 5 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 195px; height: 22px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h5
+            style="line-height: 1.2"
+          >
+            <strong>
+              <em>
+                <span
+                  style="font-family: Inter; font-size: 18px; color: #717178"
+                >
+                  Click to edit text
+                </span>
+              </em>
+            </strong>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;
+
+exports[`widgets/TextWidget should render element tags correctly 9`] = `
+<DocumentFragment>
+  <div
+    aria-describedby="003.widget-1-description"
+    aria-label="heading 6 text widget"
+    class="widget-container widget-selecto-target  css-1eee8vp"
+    data-testid="widgetbase-003.widget-1"
+    id="003.widget-1"
+    style="display: block; position: absolute; top: 10px; left: 20px; width: 170px; height: 19.5px; transform: rotate(0deg); z-index: 0; cursor: move;"
+    tabindex="-1"
+  >
+    <div
+      class="css-18d03fs"
+    >
+      <div>
+        <div
+          class="ProseMirror"
+          contenteditable="false"
+          translate="no"
+        >
+          <h6
+            style="line-height: 1.2"
+          >
+            <strong>
+              <em>
+                <span
+                  style="font-family: Inter; font-size: 16px; color: #717178"
+                >
+                  Click to edit text
+                </span>
+              </em>
+            </strong>
+          </h6>
+        </div>
+      </div>
+    </div>
+    <span
+      class="css-f8n5zr"
+    >
+      <p
+        class="chakra-text css-0"
+        id="003.widget-1-description"
+      >
+        Click to edit text
+      </p>
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

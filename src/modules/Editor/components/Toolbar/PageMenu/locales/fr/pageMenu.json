@@ -1,0 +1,33 @@
+{
+  "editBackground": {
+    "button": "Edit Background"
+  },
+  "pageSize": {
+    "editButton": "Edit Page Size",
+    "title": "Standard Page Size",
+    "customTitle": "Custom Page Size",
+    "widthInput": {
+      "label": "Width"
+    },
+    "heightInput": {
+      "label": "Height"
+    },
+    "unitSelect": {
+      "label": "Unit",
+      "tooltip": "Paper Size Unit",
+      "ariaLabel": "select pape size unit"
+    },
+    "paperType": {
+      "tooltip": "Standard Page Sizes",
+      "ariaLabel": "select standard page size"
+    },
+    "portraitButton": {
+      "ariaLabel": "portrait size button",
+      "tooltip": "Portrait"
+    },
+    "landscapeButton": {
+      "ariaLabel": "landscape size button",
+      "tooltip": "Landscape"
+    }
+  }
+}
